@@ -23,6 +23,7 @@
   "homepage": "https://github.com/nuvipannu/ascii-heart#readme",
   "dependencies": {
     "cli-graph": "^3.2.0",
-    "deffy": "^2.2.0"
+    "deffy": "^2.2.1",
+    "ul": "^5.2.1"
   }
 }
